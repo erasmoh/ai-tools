@@ -8,4 +8,7 @@ out
 .env.*.local
 *.tsbuildinfo
 .vercel
+<<<<<<< Updated upstream
 .env*.local
+=======
+>>>>>>> Stashed changes
